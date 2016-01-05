@@ -1,0 +1,32 @@
+h1
+{
+    color: darkgreen
+    text-align: center;
+    font-size: 40px;
+}
+h3
+{
+    color: darkgreen
+    text-align: center;
+    font-size: 20px;
+    
+ul
+{
+    text-align: center;
+    list-style: none outside none;
+}
+body
+{
+    background-color:bisque;
+}
+ul
+{
+    color: darkolivegreen
+    font-size: 25px
+}
+
+li
+{
+    color:darkgreen
+    font-size: 30px 
+}
